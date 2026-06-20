@@ -1,9 +1,9 @@
-# comparison26<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>電気代比較</title>
+<title>エアコン長期コスト比較</title>
 <style>
 /* ============================================================
    CSS変数・テーマ
@@ -568,7 +568,7 @@ input[type="number"]:focus { outline: none; border-color: var(--accent-lt); }
       比較画面へ →
     </button>
     <button onclick="resetSettings()" style="display:inline-flex; align-items:center; gap:5px; background:#fff; color:#922b21; border:1.5px solid #e74c3c; border-radius:8px; padding:8px 14px; font-size:0.82rem; font-weight:700; cursor:pointer;">
-      🔄 詳細オプションをリセット
+       詳細オプションをリセット
     </button>
   </div>
 </div>
