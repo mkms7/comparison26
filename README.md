@@ -498,10 +498,10 @@ input[type="number"]:focus { outline: none; border-color: var(--accent-lt); }
 <!-- タブナビ -->
 <nav class="tab-nav">
   <button class="tab-btn active" onclick="switchTab('compare')" id="tab-compare">
-    📊 比較
+     比較
   </button>
   <button class="tab-btn" onclick="switchTab('settings')" id="tab-settings">
-    ⚙️ 設定
+     設定
   </button>
 </nav>
 
